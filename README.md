@@ -1,6 +1,6 @@
 # BC21andBC20
 BC20 can only be used in China   
-BC21 used in 
+BC21 used in   
 BC21-G can used around the world
 Type: CAT4  
 
