@@ -1,6 +1,7 @@
 # BC21andBC20
 BC20 can only be used in China   
-BC21 used in   
+BC21 used in 
+BC21-G can used around the world
 Type: CAT4  
 
 # BG96-USB
@@ -10,7 +11,6 @@ Type: CATM NB1
 
 # EG91
 EG91 can only be used in USA  
-G: means global  
 Type: CAT1  
 
 # BC95-G
